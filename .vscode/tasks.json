@@ -8,8 +8,6 @@
             "args": [
                 "-g",
                 "main.cpp",
-                "ring_buffer.cpp",
-                "uart.cpp",
                 "-o",
                 "build.exe"
             ],
@@ -22,3 +20,4 @@
         }
     ]
 }
+k
